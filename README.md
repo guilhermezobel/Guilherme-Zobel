@@ -1,5 +1,6 @@
 ### Welcome / Bem vindos 😄
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel)](https://github.com/Guilherme-Zobel/github-readme-stats)
 
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 #
