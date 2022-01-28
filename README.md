@@ -2,7 +2,6 @@
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&hide=contribs,prs)
 #
 <div style="display: inline_block"><br>
 <img align="center" alt="Zobel-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
