@@ -10,11 +10,14 @@
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 <p>
 <br>
-<br>
+<p align="center">
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
+</p>
 <br>
+ <div align="center">
 - ### Inicio do Curso: Julho 2021
 - ### Termino do Curso: Julho 2022 
+ </div>
 <br>
 
 
@@ -23,7 +26,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 
 
 <br><br>
-
+<div align="center">
 ## 🛠 &nbsp;Tech and languages / Tecnologias e Linguagens
 
 
@@ -40,7 +43,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=DOCKER)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
-
+<div>
 #
 
 ## 📫 &nbsp;How to reach me / Como chegar até mim:
