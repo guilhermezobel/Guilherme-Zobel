@@ -39,8 +39,8 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 <div style="display: inline_block"><br>
 📫 How to reach me / Como chegar até mim: <br>
   <br>
-<a href="https://linkedin.com/in/guilherme-zobel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guilherme-zobel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
       <a href="https://wa.me/5551998054321" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
