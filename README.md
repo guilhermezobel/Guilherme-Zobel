@@ -45,6 +45,9 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
       <a href="https://wa.me/5551998054321" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
+<a href="https://www.instagram.com/guilherme.zobel/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-guilherme.zobel-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
   
 </div>
