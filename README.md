@@ -14,10 +14,10 @@ At the moment studying at Trybe. More than 1500 hours of training that covers fu
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 </p>
 <br>
- <div align="center">
+
 - ### Inicio do Curso: Julho 2021
 - ### Termino do Curso: Julho 2022 
- </div>
+
 <br>
 
 
