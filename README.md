@@ -1,13 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel - Web Devolopement Student 
  </h1>
- <div>
+
  <a href=https://www.betrybe.com "Trybe" target="_blank"> <img src=https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe" alt="Trybe"/>
 </a>
- </div>
 
-<a href="https://linkedin.com/in/guilherme-zobel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guilherme zobel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+
+
 
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 <br>
