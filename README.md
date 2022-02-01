@@ -1,6 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel |
-<a href=https://www.betrybe.com/ "Trybe" target="_blank">
- <img align="center" src=https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe" alt="instagram"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel - Web Devolopement Student | <a href=https://www.betrybe.com/ "Trybe" target="_blank"> <img align="center" src=https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe" alt="instagram"/>
 </a>
  </h1>
 
