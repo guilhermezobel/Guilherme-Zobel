@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel</h1>  # Anderson Zobel - Web Devolopement Student | [![Trybe](https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe")](https://www.betrybe.com/ "Trybe")
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel</h1>
 
 - ### Inicio do Curso: Julho 2021
 - ### Termino do Curso: Julho 2022 
