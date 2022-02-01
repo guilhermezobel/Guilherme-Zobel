@@ -31,8 +31,6 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 
 
-<br>
-
 #
 
 
