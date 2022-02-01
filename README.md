@@ -6,7 +6,11 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&show_icons=true&count_private=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&hide=contribs,prs)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sGuilherme-Zobel&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 #
 <div style="display: inline_block"><br>
 <img align="center" alt="Zobel-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
