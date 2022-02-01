@@ -5,13 +5,6 @@ At the moment studying at Trybe. More than 1500 hours of training that covers fu
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 <br>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&count_private=true&include_all_commits=true&count_public=true&theme=chartreuse-dark)
 
