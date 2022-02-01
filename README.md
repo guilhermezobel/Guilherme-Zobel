@@ -6,10 +6,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 <br>
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Zobel&layout=compact&theme=vision-friendly-dark" alt="Guilherme-Zobel's most languages"/>
-</p>
+
 <br>
 
 
