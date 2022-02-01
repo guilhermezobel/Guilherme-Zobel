@@ -4,7 +4,7 @@ At the moment studying at Trybe. More than 1500 hours of training that covers fu
 <br>
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&include_all_commits=true&include_all_pull_request=true&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&include_all_commits=true&show_icons=true&theme=radical)
 <br>
 
 
