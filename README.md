@@ -4,7 +4,12 @@ At the moment studying at Trybe. More than 1500 hours of training that covers fu
 <br>
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 <br>
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Zobel&layout=compact&theme=vision-friendly-dark" alt="Guilherme-Zobel's most languages"/>
+</p>
 <br>
 
 
