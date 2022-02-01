@@ -13,8 +13,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 
 <br><br>
 
-## 🛠 &nbsp;
-Technologies and languages
+## 🛠 &nbsp;Technologies and languages / Tecnologias e Linguagens
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,9 +36,8 @@ Technologies and languages
 #
 
 
-   
+## 📫 &nbsp;How to reach me / Como chegar até mim:
 <div style="display: inline_block"><br>
-## 📫 &nbsp; How to reach me / Como chegar até mim: <br>
   <br>
 <a href="https://linkedin.com/in/guilherme-zobel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilherme zobel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
