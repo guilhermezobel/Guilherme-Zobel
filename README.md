@@ -34,7 +34,6 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 
 ## 📫 &nbsp;How to reach me / Como chegar até mim:
 <div style="display: inline_block"><br>
-  <br>
 <a href="https://linkedin.com/in/guilherme-zobel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilherme zobel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -44,7 +43,6 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 <a href="https://www.instagram.com/guilherme.zobel/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-guilherme.zobel-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
   
 </div>
 
