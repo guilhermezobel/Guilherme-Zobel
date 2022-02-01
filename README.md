@@ -1,4 +1,7 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel</h1> |
+<a href=https://www.betrybe.com/ "Trybe" target="_blank">
+ <img align="center" src=https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe" alt="instagram"/>
+</a>
 
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 <br>
