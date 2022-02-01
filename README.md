@@ -11,7 +11,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
   <tr>
     <td>
       <a href="https://github.com/ree1moreno" target="_blank">
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Zobel&icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
       </a>
     </td>
     <td>
