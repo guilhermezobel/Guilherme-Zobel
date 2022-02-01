@@ -26,7 +26,6 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 
 
 <br><br>
-<div align="center">
 ## 🛠 &nbsp;Tech and languages / Tecnologias e Linguagens
 
 
