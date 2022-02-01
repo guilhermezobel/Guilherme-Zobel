@@ -4,9 +4,7 @@
  <a href=https://www.betrybe.com "Trybe" target="_blank"> <img src=https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe" alt="Trybe"/>
 </a>
 </div>
-
-
-
+<br>
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 <br>
 <br>
