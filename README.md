@@ -21,10 +21,6 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 <br>
 
 
-
-
-
-
 <br><br>
 ## 🛠 &nbsp;Tech and languages / Tecnologias e Linguagens
 
@@ -44,7 +40,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 <div>
 
-
+<br><br>
 ## 📫 &nbsp;How to reach me / Como chegar até mim:
 <div style="display: inline_block">
 <a href="https://linkedin.com/in/guilherme-zobel" target="_blank">
