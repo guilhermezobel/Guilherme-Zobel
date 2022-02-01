@@ -1,12 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Zobel</h1>
 
-- ### Inicio do Curso: Julho 2021
-- ### Termino do Curso: Julho 2022 
-
 At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 <br>
 <br>
 No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
+<br>
+- ### Inicio do Curso: Julho 2021
+- ### Termino do Curso: Julho 2022 
 <br>
 
 
