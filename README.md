@@ -25,7 +25,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=DOCKER)&nbsp;
-![MySQL(https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
 
 <br><br>
 
