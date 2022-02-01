@@ -30,9 +30,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 
-
 #
-
 
 ## 📫 &nbsp;How to reach me / Como chegar até mim:
 <div style="display: inline_block"><br>
