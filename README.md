@@ -22,7 +22,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 
 ### Modules / Módulo:
  - #### :heavy_check_mark: Complete: Web Development Fundamentals &nbsp; &nbsp; &nbsp; / Completo: Fundamentos de Desenvolvimento Web.
- - #### :heavy_check_mark: Complete: Front-end Development &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;/ Completo: Desenvolvimento Front-end.
+ - #### :heavy_check_mark: Complete: Front-end Development &nbsp; &nbsp; &nbsp;   &nbsp;  / &nbsp; &nbsp; Completo: Desenvolvimento Front-end.
  - #### :green_circle: Currently: Learning Back-end Development &nbsp; &nbsp; &nbsp; / Atualmente: Aprendendo Desenvolvimento Back-end.
  - #### :green_square: Next Module: Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / Próximo Módulo: Ciência da Computação.
 
