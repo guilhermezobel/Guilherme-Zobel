@@ -29,7 +29,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 <br>
 
 <br><br>
-## 🛠 Tech and languages / Tecnologias e Linguagens
+## 🛠 &nbsp; Tech and languages / Tecnologias e Linguagens
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
