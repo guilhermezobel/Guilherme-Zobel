@@ -15,16 +15,16 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 </p>
 <br>
 
-- ### Course Start  &nbsp; |  &nbsp; Inicio do Curso: Julho 2021
+- ### Course Start  &nbsp; &nbsp; |  &nbsp; Inicio do Curso: Julho 2021
 - ### Course Finish  &nbsp; |  &nbsp; Termino do Curso: Julho 2022 
 
 <br>
 
 ### Modules / Módulo:
  - #### :heavy_check_mark: Complete: Web Development Fundamentals &nbsp; &nbsp; &nbsp; |  &nbsp;  :heavy_check_mark:  Completo: Fundamentos de Desenvolvimento Web.
- - #### :heavy_check_mark: Complete: Front-end Development &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; :heavy_check_mark: Completo: Desenvolvimento Front-end.
- - #### :green_circle: Currently: Learning Back-end Development &nbsp; &nbsp; |  &nbsp;  &nbsp; :green_circle:  Atualmente: Aprendendo Desenvolvimento Back-end.
- - #### :green_square: Next Module: Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp;  &nbsp; &nbsp;  &nbsp; :green_square: Próximo Módulo: Ciência da Computação.
+ - #### :heavy_check_mark: Complete: Front-end Development &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; :heavy_check_mark: Completo: Desenvolvimento Front-end.
+ - #### :green_circle: Currently: Learning Back-end Development &nbsp; &nbsp; &nbsp; |  &nbsp;  &nbsp; :green_circle:  Atualmente: Aprendendo Desenvolvimento Back-end.
+ - #### :green_square: Next Module: Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp;  &nbsp; &nbsp;  &nbsp; :green_square: Próximo Módulo: Ciência da Computação.
 
 <br>
 
