@@ -15,16 +15,16 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 </p>
 <br>
 
-- ### Inicio do Curso: Julho 2021
-- ### Termino do Curso: Julho 2022 
+- ### course start / Inicio do Curso: Julho 2021
+- ### course finish / Termino do Curso: Julho 2022 
 
 <br>
 
-### Modules:
- #### :heavy_check_mark: Complete: Web Development Fundamentals.
- #### :heavy_check_mark: Complete: Front-end Development. 
- #### :green_circle: Currently: Learning Back-end Development. 
- #### :green_square: Next Module: Computer Science. 
+### Modules / Módulo:
+ - #### :heavy_check_mark: Complete: Web Development Fundamentals.
+ - #### :heavy_check_mark: Complete: Front-end Development. 
+ - #### :green_circle: Currently: Learning Back-end Development. 
+ - #### :green_square: Next Module: Computer Science. 
  
 <br>
 
