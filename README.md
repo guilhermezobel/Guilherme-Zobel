@@ -20,7 +20,7 @@ No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fu
 
 <br>
 
-<!-- ## Modules: -->
+### Modules:
  #### :heavy_check_mark: Complete: Web Development Fundamentals.
  #### :heavy_check_mark: Complete: Front-end Development. 
  #### :green_circle: Currently: Learning Back-end Development. 
