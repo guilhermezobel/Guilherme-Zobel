@@ -24,7 +24,7 @@ Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a 
  - #### :heavy_check_mark: Complete: Web Development Fundamentals &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; - &nbsp;  :heavy_check_mark:  Completo: Fundamentos de Desenvolvimento Web.
  - #### :heavy_check_mark: Complete: Front-end Development &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  - &nbsp;  :heavy_check_mark: Completo: Desenvolvimento Front-end.
  - #### :green_circle: Currently: Learning Back-end Development &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; - &nbsp; :green_circle:  Atualmente: Aprendendo Desenvolvimento Back-end.
- - #### :green_square: Next Module: Computer Science &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; - &nbsp; :green_square: Próximo Módulo: Ciência da Computação.
+ - #### :green_square: Next Modul: Computer Science &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; - &nbsp; :green_square: Próximo Módulo: Ciência da Computação.
 
 <br>
 
