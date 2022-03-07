@@ -11,7 +11,7 @@ I'm a student at Trybe, a web development school that teaches programming, learn
 <p>
 <br>
 <p align="left">
-Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar. O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar. O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidade comportamentais.
 </p>
 <br>
 
