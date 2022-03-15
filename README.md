@@ -15,7 +15,7 @@ Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a 
 </p>
 <br>
 
-- ### Course Start  &nbsp; &nbsp; |  &nbsp; Inicio do Curso: Julho 2021
+- ### Course Start  &nbsp; nbsp; |  &nbsp; Inicio do Curso: Julho 2021
 - ### Course Finish  &nbsp; |  &nbsp; Termino do Curso: Julho 2022 
 
 <br>
