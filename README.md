@@ -7,7 +7,7 @@
 </div>
 <br>
 <p align="left">
-I'm a student at Trybe, a web development school that teache programming, learning and working. The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
+I'm a student at Trybe, a web development school that teaches programming, learning and working. The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 <p>
 <br>
 <p align="left">
