@@ -67,7 +67,6 @@ Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a 
   
 </div>
 
-
 <!--
 **Guilherme-Zobel/Guilherme-Zobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
