@@ -1,55 +1,16 @@
-<h1 align="center">Hi, I'm Guilherme Zobel - Web Devolopement Student 
- </h1>
- <br>
-<div align="center">
- <a href=https://www.betrybe.com "Trybe" target="_blank"> <img src=https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe" alt="Trybe"/>
-</a>
-</div>
-<br>
-<p align="left">
-I'm a student at Trybe, a web development school that teaches programming, learning and working. The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
-<p>
-<br>
-<p align="left">
-Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar. O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
-</p>
-<br>
-
-- ### Course Start  &nbsp; &nbsp; |  &nbsp; Inicio do Curso: Julho 2021
-- ### Course Finish  &nbsp; |  &nbsp; Termino do Curso: Julho 2022 
-
-<br>
-
-### Modules / Módulos:
- - #### :heavy_check_mark: Complete: Web Development Fundamentals &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; - &nbsp;  :heavy_check_mark:  Completo: Fundamentos de Desenvolvimento Web.
- - #### :heavy_check_mark: Complete: Front-end Development &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  - &nbsp;  :heavy_check_mark: Completo: Desenvolvimento Front-end.
- - #### :green_circle: Currently: Learning Back-end Development &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; - &nbsp; :green_circle:  Atualmente: Aprendendo Desenvolvimento Back-end.
- - #### :green_square: Next Module: Computer Science &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; - &nbsp; :green_square: Próximo Módulo: Ciência da Computação.
-
-<br>
 
 <br><br>
 ## 🛠 &nbsp; Tech and languages / Tecnologias e Linguagens
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=Styledcomponents)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=REDUX)&nbsp;
-![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 <br>
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=DOCKER)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 <div>
 
 <br><br>
