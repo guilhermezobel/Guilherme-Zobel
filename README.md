@@ -25,6 +25,7 @@ Se você está procurando elevar a qualidade visual e interativa das suas aplica
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
 
 <br>
 
