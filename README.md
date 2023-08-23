@@ -14,21 +14,23 @@ Para mim o trabalho em equipe é fundamental para desenvolver grandes projetos e
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)
 ![Micro-Frontend](https://img.shields.io/badge/-Micro%20Frontend-05122A?style=flat&logo=nx&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)<br>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Stitches](https://img.shields.io/badge/-Stitches-05122A?style=flat&logo=Stitchescss)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=Styled-components)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)<br>
+![Git](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)
 ![RTL](https://img.shields.io/badge/-RTL-05122A?style=flat&logo=RTL&logoColor=1572B6)
 ![Kanban](https://img.shields.io/badge/-Kanban-05122A?style=flat&logo=kanban)
-![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=kanban)
+![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=Scrum)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)
 
 ### 📚 Tenho Estudo
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 ![Talwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)
-![MaterialUi](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=MUI)
+![MaterialUi](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=MUI)<br>
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)
 
